@@ -1,0 +1,12 @@
+com/evgeny_m/data/BuildConfig.java
+ com.evgeny_m.data.BuildConfig
+com/evgeny_m/data/room/UserDatabase_Impl.java
+ com.evgeny_m.data.room.UserDatabase_Impl
+ com.evgeny_m.data.room.UserDatabase_Impl$1
+com/evgeny_m/data/room/UserDao_Impl.java
+ com.evgeny_m.data.room.UserDao_Impl
+ com.evgeny_m.data.room.UserDao_Impl$1
+ com.evgeny_m.data.room.UserDao_Impl$2
+ com.evgeny_m.data.room.UserDao_Impl$3
+ com.evgeny_m.data.room.UserDao_Impl$4
+ com.evgeny_m.data.room.UserDao_Impl$5
